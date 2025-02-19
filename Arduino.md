@@ -2,7 +2,7 @@
 
 See the software info
 
-# Switch-Throttle Micro Pin Mapping
+## Pin Mapping and Wire Bundles
 
 This table documents the pin assignments and controls for the switch-throttle micro setup.
 
