@@ -1,7 +1,7 @@
 # Dakota Flight Simulator Project
 
 Welcome to the documentation for my flight simulator project. This Wiki contains details about the construction, components, and software used in the simulator.
-[Dakota Sim][images/dakota-sim-photo.jpg]
+![Dakota Sim](images/dakota-sim-photo.jpg)
 
 The sim was built to practice IFR flying using new avionics that match our real plane. It has also been a great opportunity to learn Arduino and explore my Onefinity CNC/Laser.
 
