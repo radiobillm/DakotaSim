@@ -37,6 +37,8 @@ A low-mounted monitor under the table displays the Air Manager Manifold and Tach
 The model has an unused gauge cutout layer. I may build stepper motor versions for our oil, fuel, manifold and tach that match our real plane.
 
 ### Table
+![Back of Panel](images/table-back.jpg)
+
 ![Avionics Table](images/table.jpg)
 
 The support Table is ½” plywood with edge and side pieces to replace the chassis metal. 
@@ -50,11 +52,6 @@ For support I replaced the original chassis monitor stand.  A 3/4”x24” threa
 ![Power and Hubs](images/power-hubs.jpg)
 
 For aesthetics and easier troubleshooting I took time for the component layout above and under the table and designed and printed holders for power supplies, USB hubs, and HDMI adapters.
-
-![Back of Panel](images/table-back.jpg)
-
-![Power and Hub Mounts](images/power-hubs.jpg)
-
 
 ## Glare Shield & Enclosure
 
