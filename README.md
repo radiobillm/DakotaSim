@@ -17,9 +17,9 @@ The project includes:
 (For older versions, see [All Releases](https://github.com/radiobillm/DakotaSim/releases))
 
 ## Resources
-- Parts List & Pricing → [Parts.md](https://github.com/radiobillm/DakotaSim/blob/main/parts.md)
-- Community & Support → [Discussions](https://github.com/radiobillm/DakotaSim/discussions)
-- Issues & Feedback → [Submit an Issue](https://github.com/radiobillm/DakotaSim/issues)
+- [Parts and Pricing](https://github.com/radiobillm/DakotaSim/blob/main/parts.md)
+- [Community Discussions](https://github.com/radiobillm/DakotaSim/discussions)
+- [Submit an Issue](https://github.com/radiobillm/DakotaSim/issues)
 
 ## Older Versions
 - [Dakota Sim for Honeycomb](Dakota-Honeycomb.md)
