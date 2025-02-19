@@ -42,3 +42,8 @@ The current build would cost about $10,000. The project includes a breakdown of 
 
 ## Parts List
 - [Parts List & Pricing](Parts-Price.md)
+
+# Older Versions
+
+- [Dakota Sim for Honeycomb](Dakota-honeycomb.md)
+- [Desktop Sim](Desktop-sim.md)
