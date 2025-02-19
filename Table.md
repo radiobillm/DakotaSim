@@ -17,6 +17,7 @@ For support I replaced the original chassis monitor stand.  A 3/4”x24” threa
 
 For aesthetics and easier troubleshooting I took time for the component layout above and under the table and designed and printed holders for power supplies, USB hubs, and HDMI adapters.
 
+## LED Dimmer
 ![LED Dimmer and Compass Arduino](images/dimmer.jpg)
 
-A printed box with lid houses an Arduino Pro Micro and compass stepper motor driver plus a dimmer connected to the compass and under-glare shelf lighting.  A hydra end from the 12V power supply powers the dimmer.
+A printed box with lid mounted on the back of the panel houses an Arduino Pro Micro and compass stepper motor driver plus a dimmer connected to the compass and under-glare shelf lighting.  A hydra end from the 12V power supply powers the dimmer.
