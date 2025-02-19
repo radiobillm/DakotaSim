@@ -1,4 +1,4 @@
-# 🛩️ DakotaSim – Piper Dakota Flight Simulator
+# DakotaSim – Piper Dakota Flight Simulator
 
 DakotaSim is a **custom PA-28-235 flight simulator** designed to match our plane's real-world avionics. 
 
@@ -16,6 +16,6 @@ The project includes:
 (For older versions, see [All Releases](https://github.com/radiobillm/DakotaSim/releases))
 
 ## Resources
-- *Parts List & Pricing → [Parts.md](https://github.com/radiobillm/DakotaSim/blob/main/parts.md)
+- Parts List & Pricing → [Parts.md](https://github.com/radiobillm/DakotaSim/blob/main/parts.md)
 - Community & Support → [Discussions](https://github.com/radiobillm/DakotaSim/discussions)
 - Issues & Feedback → [Submit an Issue](https://github.com/radiobillm/DakotaSim/issues)
