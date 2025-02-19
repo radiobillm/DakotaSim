@@ -2,7 +2,7 @@
 
 DakotaSim is a PA-28-235 flight simulator to match our real plane's G3X-based panel. 
 
-Project Wiki](home.md) is extensive and includes:
+[Project Wiki](home.md) is extensive and includes:
 
 - A hardware build with custom-fabricated hardware
 - SketchUp models
