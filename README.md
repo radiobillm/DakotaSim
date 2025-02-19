@@ -9,7 +9,6 @@ The project includes:
 - Custom Air Manager instruments
 - Parts and prices detail
 
-## Documentation
 [Project Wiki](home.md)
 
 ## Downloads
