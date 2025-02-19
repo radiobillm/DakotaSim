@@ -1,11 +1,11 @@
 # Fabricated Controls
 ## PA28 Throttle
 
-![name](images/throttle.jpg)
+![name](images/throttle.jpg)![name](images/throttle-inside.jpg)
 
 I started by buying a real replacement throttle assembly trim and label, then designed and 3D printed the body.  
 
-![name](images/throttle-inside.jpg) ![name](images/throttle-proto.jpg)
+![name](images/throttle-proto.jpg)
 
 To fit the closely spaced throttle, prop, and mixture levers, I used bellcranks to offset the potentiometers.
 
