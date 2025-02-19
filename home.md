@@ -32,7 +32,7 @@ The current build would cost about $10,000. The project includes a breakdown of 
 ## Purchased Instruments and Controls
 - [RSG and Instruments](Instruments.md)
 - [Yoke, Pedals](Yoke-pedals.md)
-- [Displays](Displays.md)
+- [Monitors and Sound](Displays.md)
 - [Computer](Computer.md)
 
 ## Software
