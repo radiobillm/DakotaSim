@@ -16,9 +16,9 @@ The current build would cost about $10,000. The project includes a breakdown of 
 ![Back of Panel](images/table-back.jpeg)
 
 ## Cockpit Structure
-- [Avionics Panel](Panel.md)
-- [Avionics Table](Table.md)
-- [Volair Chassis](Chassis.md)
+- [Avionics Panel](Panel.md); laser cutting, auto wrap
+- [Avionics Table](Table.md); support, power, dimmer, hubs
+- [Volair Chassis](Chassis.md); computer shelf
   
 ## Fabricated Controls
 - [Throttle, Switch, & Panel Controls](Panel-Controls.md)
