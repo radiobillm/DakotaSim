@@ -17,8 +17,8 @@ The sim community is a gem.  After learning from so many projects and discussion
 - [Avionics Table](Table.md)
 - [Chassis](Chassis.md)
 ### Fabricated Controls
-- [Panel Controls](Panel-Controls.md)
-- [Center Stack Controls](Center-Controls.md)
+- [Throttle, Switch, & Panel Controls](Panel-Controls.md)
+- [Center Stack , Brake, Fuel](Center-Controls.md)
 - 
 ### Instruments
 
