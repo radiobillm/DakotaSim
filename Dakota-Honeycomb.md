@@ -11,9 +11,11 @@ Details that are distinct from this older version may help those using standard 
 ![Sketchup](images/dakota-honeycomb-sketchup.jpg)
 
 ## Panel
-$500 [Volair panel](https://volairsim.com/product/volair-sim-avionics-panel-g1000/), metal cut out for my panel, excellent 
+$500 [Volair panel](https://volairsim.com/product/volair-sim-avionics-panel-g1000/)
 
-I cut out the top half and replaced with plywood, cardboard, and ACM buildup showin in the sketchup model.
+The -Honecomb Sketchup model has measurements from their panel adfter multiple itterations.
+
+The Volair G1000 panel has a heavy-duty metal structure, back and table.  To fit my instruments I cut away most of the panel.  Into the frame I added a plywood back, cardboard center, and ACM front panel layers.
 
 ## Fabrication
 $200 for [MakeATX](https://www.makeatx.com/custom-cutting) local laser cutting, 3 cardboard test iterations, final ¼” plywood back
