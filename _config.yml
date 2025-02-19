@@ -1,0 +1,11 @@
+title: Piper Dakota Sim
+description: "A custom PA-28-235 flight simulator build."
+theme: minima
+show_downloads: true
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+header_pages:
+  - index.md
