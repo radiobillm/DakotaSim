@@ -23,7 +23,7 @@ The current build would cost about $10,000. The project includes a breakdown of 
 ## Fabricated Controls
 - [Throttle, Switch, & Panel Controls](Panel-Controls.md)
 - [Center Stack , Brake, Fuel](Center-Controls.md)
-- [Trim and Flaps](Trim-Flaps.md)
+- [Trim and Flaps](Trim-flaps.md)
 
 ## Arduinio
 - [Arduino Hardware](Arduino.md)
