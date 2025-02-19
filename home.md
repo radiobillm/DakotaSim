@@ -19,23 +19,23 @@ The current build would cost about $10,000. The project includes a breakdown of 
 ![Back of Panel](images/table-back.jpeg)
 
 ## Cockpit Structure
-- [Avionics Panel](Panel.md); laser cutting, auto wrap
-- [Avionics Table](Table.md); support, power, dimmer, hubs
-- [Volair Chassis](Chassis.md); computer shelf
+- [Avionics Panel](Panel.md) with laser cutting, auto wrap
+- [Avionics Table](Table.md) with support, power, dimmer, hubs
+- [Volair Chassis](Chassis.md) has a computer shelf
   
 ## Fabricated Controls
 - [Throttle, Switch, & Panel Controls](Panel-Controls.md)
-- [Center Stack , Brake, Fuel](Center-Controls.md)
-- [Trim and Flaps](Trim-flaps.md)
+- [Center Stack , Brake, & Fuel](Center-Controls.md)
+- [Trim & Flaps](Trim-flaps.md)
 
 ## Arduinio
 - [Arduino Hardware](Arduino.md)
 - [Ardunio Software / FS2020](Arduino-sw.md)
   
 ## Other Purchased Hardware
-- [RSG and Tigerfly Instruments](Instruments.md)
-- [Flitesim Yoke, Thrustmaster Pedals](Yoke-pedals.md)
-- [Monitors and Sound](Monitors-Sound.md)
+- [RSG & Tigerfly Instruments](Instruments.md)
+- [Flitesim Yoke & Thrustmaster Pedals](Yoke-pedals.md)
+- [Monitors & Sound](Monitors-Sound.md)
 - [Computer](Computer.md)
 
 ## Software
