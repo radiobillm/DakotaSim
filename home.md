@@ -12,7 +12,10 @@ The sim community is a gem.  After learning from so many projects and discussion
 
 The current build would cost about $10,000. The project includes a breakdown of parts and prices.
 
+## Front
 ![Dakota Sim](images/dakota-sim-photo.jpg)
+
+## Back
 ![Back of Panel](images/table-back.jpeg)
 
 ## Cockpit Structure
