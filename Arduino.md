@@ -4,6 +4,8 @@ Before this project, I had no prior experience with Arduino or circuit board ass
 
 Initially, I soldered IDC ribbon cables directly to the Arduino pins, using a separate connector for each control. Later, for the two additional Arduino Pros, I switched to using connectors soldered on the Arduino.
 
+Renaming the USB HID device requires updating the boards.txt file, one is included.
+
 See the software info
 
 ## Pin Mapping and Wire Bundles
