@@ -24,12 +24,7 @@ $600 Triple monitor stand from [Simfab](https://simfab.com/product/triple-monito
 
 $1000 [Volair chassis](https://volairsim.com/product/volair-sim-flight-racing-sim-cockpit/) with arm rests and keyboard mount, excellent build
 
-## Computer
-In addition to the i9 running MSFS, I added this machine to Air Manager monitors
-
-$230 MeLE [Mini PC](https://www.amazon.com/gp/product/B0CP3YL6J7/) for dedicated Air Manager
-
-### Instruments
+## Instruments
 $1200 [G500](https://realsimgear.com/products/realsimgear-g500-avionics-panel	) from RealSimGear (originally for X-Plane with no G3X)
 
 $550 [GTN650](https://realsimgear.com/products/realsimgear-gtn650-bezel-for-x-plane-p3d-and-fsx-steam) from RealSimGear
@@ -57,6 +52,11 @@ $250 Two [Samsung 27” T35F](https://www.amazon.com/gp/product/B08FF3JQ28/) sid
 $300 [Sonos Beam](https://www.sonos.com/en-us/shop/beam-b-stock-shadow), used Gen 1 (for an all Sonos-dude)
 
 $85 [USB2GA Aviation Headset to USB Adapter](https://www.amazon.com/gp/product/B0CW3GLDM1/)
+
+## Computer
+In addition to the i9 running MSFS, I added this machine to Air Manager monitors
+
+$230 MeLE [Mini PC](https://www.amazon.com/gp/product/B0CP3YL6J7/) for dedicated Air Manager
 
 ## Hubs, Power and Cables
 $180 for two [StarTech USB to 4x HDMI](https://www.amazon.com/gp/product/B09BJWGPXR/)
