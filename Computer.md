@@ -2,11 +2,7 @@
 
 Built from the parts list below including an i9 and 4080, performance is good enough to use mostly max settings with three monitors plus five in the panel.  The system was originally purchased for under my office desk, otherwise the small case is not worth the careful work squeezing components together.
 
-I mistkenly ordered an i9 without graphics.
-
-# Flight Simulator PC Build
-
-This page documents the components selected for a flight simulator PC build.
+I mistakenly ordered an i9 without graphics.
 
 ## PC Components
 
