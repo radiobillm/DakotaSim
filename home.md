@@ -15,22 +15,30 @@ The current build would cost about $10,000. The project includes a breakdown of 
 ![Dakota Sim](images/dakota-sim-photo.jpg)
 ![Back of Panel](images/table-back.jpeg)
 
-## Project Details
-### Cockpit Structure
+## Cockpit Structure
 - [Avionics Panel](Panel.md)
 - [Avionics Table](Table.md)
 - [Volair Chassis](Chassis.md)
   
-### Fabricated Controls
+## Fabricated Controls
 - [Throttle, Switch, & Panel Controls](Panel-Controls.md)
 - [Center Stack , Brake, Fuel](Center-Controls.md)
 - [Trim and Flaps](Trim-Flaps.md)
-  
-### Instruments
 
-- [Purchased Instruments & Controls](Purchased-Instruments-Controls)
-- [Displays & Computing Hardware](Displays-Computing-Hardware)
+# Arduinio
+- [Arduino Hardware](Arduino.md)
+- [Ardunio Software / FS2020](Arduino-sw.md)
+  
+## Purchased Instruments and Controls
+- [RSG and Instruments](Instruments.md)
+- [Yoke, Pedals](Yoke-pedals.md)
+- [Displays](Displays.md)
+- [Computer](Computer.md)
+
+## Software
 - [Software & System Configuration](Software-System-Configuration)
 - [SketchUp & Fabrication Files](SketchUp-Fabrication-Files)
 - [Parts List & Pricing](Parts-List-Pricing)
 - [Future Plans & Upgrades](Future-Plans-Upgrades)
+
+- ## Parts List
