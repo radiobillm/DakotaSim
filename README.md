@@ -20,3 +20,7 @@ The project includes:
 - Parts List & Pricing → [Parts.md](https://github.com/radiobillm/DakotaSim/blob/main/parts.md)
 - Community & Support → [Discussions](https://github.com/radiobillm/DakotaSim/discussions)
 - Issues & Feedback → [Submit an Issue](https://github.com/radiobillm/DakotaSim/issues)
+
+## Older Versions
+- [Dakota Sim for Honeycomb](Dakota-Honeycomb.md)
+- [Desktop Sim](Desktop-sim.md)
