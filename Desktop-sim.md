@@ -1,6 +1,6 @@
 # Desktop Sim
 
-[sim-1.jpg)
+![Desktop Sim](/images/sim-1.jpg)
 
 My  first iteration was X-Plane based system on my office desk which had a Mac Studio and Samsung ultrawide monitor.  The only item still used from that version is my Air Manager license.
 
