@@ -12,7 +12,7 @@ I created my own instruments below.  The radio has been replaced with a much bet
 ### GNC-255 Radio
 ![GNC255](images/am-gnc255.jpg)
   
-## #GTX-345 Transponder
+### GTX-345 Transponder
 ![GTX345](images/am-gtx345.jpg)
 
 
