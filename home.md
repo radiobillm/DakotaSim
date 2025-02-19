@@ -12,7 +12,8 @@ The sim community is a gem.  After learning from so many projects and discussion
 ![Back of Panel](images/table-back.jpeg)
 
 ## Project Details
-- [Cockpit Structure](Cockpit-Structure)
+### Cockpit Structure
+- [Avoionics Panel](Panel)
 - [Custom-Built Controls](Custom-Built-Controls)
 - [Purchased Instruments & Controls](Purchased-Instruments-Controls)
 - [Displays & Computing Hardware](Displays-Computing-Hardware)
