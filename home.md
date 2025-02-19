@@ -36,9 +36,8 @@ The current build would cost about $10,000. The project includes a breakdown of 
 - [Computer](Computer.md)
 
 ## Software
-- [Software & System Configuration](Software-System-Configuration)
+- [Software & Config Notes](Software.md)
 - [SketchUp & Fabrication Files](SketchUp-Fabrication-Files)
-- [Parts List & Pricing](Parts-List-Pricing)
-- [Future Plans & Upgrades](Future-Plans-Upgrades)
+- [Parts List & Pricing](Parts-Price.md)
 
 - ## Parts List
