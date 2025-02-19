@@ -14,8 +14,7 @@ The project includes:
 
 ## Downloads
 - [DakotaSim SketchUp File](https://github.com/radiobillm/DakotaSim/releases/download/v2.0-sketchup/dakota-sim.skp)
-
-- [Arduino](https://github.com/radiobillm/DakotaSim/releases)
+- [Arduino Sketches and boards.txt](https://github.com/radiobillm/DakotaSim/releases/download/v1.0-arduino/DakotaSim-Arduino.zip))
 
 ## Resources
 - [Parts and Pricing](https://github.com/radiobillm/DakotaSim/blob/main/parts.md)
@@ -23,5 +22,10 @@ The project includes:
 - [Submit an Issue](https://github.com/radiobillm/DakotaSim/issues)
 
 ## Older Versions
-- [Dakota Sim for Honeycomb](Dakota-Honeycomb.md)
+
+### Dakota Sim for Honeycomb 
+- [Description](Dakota-Honeycomb.md)
+- [ketchup](https://github.com/radiobillm/DakotaSim/releases/download/v1.0-dakota-honeycomb/dakota-honeycomb.skp)
+  
+### Desktop Sim
 - [Desktop Sim](Desktop-sim.md)
