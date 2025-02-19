@@ -16,27 +16,57 @@ With FS2024 I may use MobiFlight or spad.next to better map and maintain.
 
 This table documents the pin assignments and controls for the switch-throttle micro setup.
 
-| R1 Color | Pin 1 | Pin 2 | R1 Color | Control |
-|----------|------|------|----------|---------|
-|          |      |      |          | **USB** |
-| Green    | D13  |      | D12      | Pitot Off / Avionics On |
-|          | 3V   |      | D11      | Avionics Off |
-|          | AREF |      | D10      | Master On |
-| Red      | A0   | Green | D9       | Throttle / Master Off |
-| Brown    | A1   | Yellow | D8       | Mixture / Fuel On |
-|          | A2   | Orange | D7       | Prop / Fuel Off |
-| Blue     | A3   |       | D6       | Carb Heat On / Landing On |
-| Purple   | A4   |       | D5       | Carb Heat Off / Beacon On |
-|          | A5   |       | D4       | Beacon Off |
-|          | NC   |       | D3       | Collision On |
-|          | NC   |       | D2       | Landing On |
-| Red      | 5V   |       | GND      | 5V / GND |
-|          | RESET |      | RESET    | Reset |
-| Brown    | GND  |       | D0       | GND / Collision Off |
-|          | VIN  |       | D1       | Pitot On |
-| Black    | D14  | Brown | D17      | GA |
-| Orange   | D15  |       | D16      | Nav Off / Nav On |
+### Switch-Throttle - Micro
 
----
-_Last updated: February 2025_
+| Control             | Button | FS-Control             |
+|----------------------|--------|------------------------|
+| Throttle             | x      | Throttle Axis          |
+| Mixture              | y      | Mixture Axis           |
+| Propeller Axis       | z      | Propeller Axis         |
+| Avionics Master 1 On | 2      | Avionics Master 1 On   |
+| Avionics Master 1 Off| 1      | Avionics Master 1 Off  |
+| Master Battery On    | 4      | Master Battery On      |
+| Master Battery Off   | 3      | Master Battery Off     |
+| Set Electric Fuel Pump| 6      | Set Electric Fuel Pump |
+| Set Electric Fuel Pump Off | 5   | Set Electric Fuel Pump Off |
+| Landing Lights On    | 8      | Landing Lights On      |
+| Landing Lights Off   | 7      | Landing Lights Off     |
+| Beacon Lights On     | 10     | Beacon Lights On       |
+| Beacon Lights Off    | 9      | Beacon Lights Off      |
+| Strobes On           | 12     | Strobes On             |
+| Strobes Off          | 11     | Strobes Off            |
+| Pitot Heat On        | 14     | Pitot Heat On          |
+| Pitot Heat Off       | 13     | Pitot Heat Off         |
+| Nav Lights On        | 16     | Nav Lights On          |
+| Nav Lights Off       | 15     | Nav Lights Off         |
+| Set Anti Ice On      | 18     | Set Anti Ice On        |
+| Set Anti Ice Off     | 17     | Set Anti Ice Off       |
+| Auto Throttle to GA  | 19     | Auto Throttle to GA    |
 
+### Brake-Fuel Pro Micro
+
+| Control              | Key | FS-Control                |
+|-----------------------|-----|---------------------------|
+| Magnetos Off          | 1   | Magnetos Off              |
+| Magnetos Left         | 2   | Magnetos Left             |
+| Magnetos Right        | 3   | Magnetos Right            |
+| Magnetos Both         | 4   | Magnetos Both             |
+| Magnetos Start        | 5   | Magnetos Start            |
+| Parking Brakes On     | 6   | Parking Brakes On         |
+| Parking Brakes Off    | 7   | Parking Brakes Off        |
+| Fuel Selector 1 Off   | 8   | Fuel Selector 1 Off       |
+| Fuel Selector 1 Left Aux | 9   | Fuel Selector 1 Left Aux  |
+| Fuel Selector 1 Left  | 10  | Fuel Selector 1 Left      |
+| Fuel Selector 1 Right | 11  | Fuel Selector 1 Right     |
+| Fuel Selector 1 Right Aux| 12  | Fuel Selector 1 Right Aux |
+| Rudder Axis           | z   | Rudder Axis               |
+
+### Trim-Flaps Pro Micro
+
+| Control              | Trim/Flaps | FS-Control             |
+|-----------------------|------------|------------------------|
+| Set Elevator Trim Axis | x          | Set Elevator Trim Axis |
+| Retract Flaps          | 04         | Retract Flaps          |
+| Flaps 1                | 103        | Flaps 1                |
+| Flaps 2                | 302        | Flaps 2                |
+| Flaps 3                | 451        | Flaps 3                |
