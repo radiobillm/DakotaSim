@@ -16,7 +16,7 @@ The project includes:
 - [DakotaSim SketchUp File](https://github.com/radiobillm/DakotaSim/releases/download/v2.0-sketchup/dakota-sim.skp)
 - [Arduino Sketches and boards.txt](https://github.com/radiobillm/DakotaSim/releases/download/v1.0-arduino/DakotaSim-Arduino.zip)
 - [AirManager for Dakota](https://github.com/radiobillm/DakotaSim/archive/refs/tags/v1.0-airmanager-garmin.zip)
-- [AirManager for 255/345](https://github.com/radiobillm/DakotaSim/archive/refs/tags/v1.0-airmanager-garmin.zip)
+- [AirManager for Garmin 255/345](https://github.com/radiobillm/DakotaSim/archive/refs/tags/v1.0-airmanager-garmin.zip)
 
 ## Resources
 - [Parts and Pricing](https://github.com/radiobillm/DakotaSim/blob/main/parts.md)
