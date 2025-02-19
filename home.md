@@ -25,7 +25,7 @@ The current build would cost about $10,000. The project includes a breakdown of 
 - [Center Stack , Brake, Fuel](Center-Controls.md)
 - [Trim and Flaps](Trim-Flaps.md)
 
-# Arduinio
+## Arduinio
 - [Arduino Hardware](Arduino.md)
 - [Ardunio Software / FS2020](Arduino-sw.md)
   
