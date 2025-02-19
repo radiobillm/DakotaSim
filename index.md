@@ -179,7 +179,7 @@ A **printed enclosure houses**:
 
 ## Components & Pricing
 
-[Full Pricing List Available Here](pricing.md)
+[Parts and Pricing List Available Here](parts.md)
 
 ---
 
