@@ -15,10 +15,6 @@ Label strips are glued to the top of the trim cover under a printed trim plate.
 
 ![name](images/throttle-proto.jpg)
 
-## Bezels
-
-Simple bezels are printed for the yoke, manifold, and tach gauge, carb heat and togo switch openings.  I may build a bezel for the JPI Engine monitor.
-
 ## Switch Panel
 
 ![name](images/switch-back.jpg)
@@ -28,7 +24,6 @@ The hard part for the switch panel was sourcing rocker switches that match a rea
 As a future improvement, I plan to laser engrave labels onto the switch covers for a more authentic look.
 
 An Arduino Micro in the switch panel handles the switches, throttle, Carb Heat lever, and TOGO button. 
-
 
 ## Carb Heat
 
@@ -41,3 +36,8 @@ The Carb Heat lever is printed to sandwich the end of a metal toggle, the assemb
 I ordered the SimWales Key Switch from caspajack on eBay. The spring mechanism is well-designed, and the build quality is excellent.
 
 One challenge was the table height meant moving the switch a little lower than in real life, even after cutting off the top of the assembly. The switch was disabled and the faceplate removed.  When reassembling I first aligned the key position and then the pin so it hits the spring on start. 
+
+## Bezels
+
+Simple bezels are printed for the yoke, manifold, and tach gauge, carb heat and togo switch openings.  I may build a bezel for the JPI Engine monitor.
+
