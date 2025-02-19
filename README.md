@@ -10,7 +10,7 @@ The project includes:
 - Parts and prices detail
 
 ## Documentation
-[Project Wiki](https://github.com/radiobillm/DakotaSim/wiki)
+[Project Wiki](https://github.com/radiobillm/DakotaSim/home)
 
 ## Downloads
 - [DakotaSim SketchUp File](https://github.com/radiobillm/DakotaSim/releases/download/v2.0-sketchup/dakota-sim.skp)
