@@ -7,7 +7,8 @@ The heart of our new panel is a Garmin G3X and no X-Plane version is available s
 Details that are distinct from this older version may help those using standard Honeycomb throttle/yoke panels.
 
 ![Dakota Sim with Honeycomb](images/sim-2.jpg)
-![Dakota Sim with Honeycomb](images/sim-2-back-right.jpg)
+![Dakota Honeycomb Back](images/sim-2-back-right.jpg)
+![Sketchup](images/dakota-honeycomb-sketchup.jpg)
 
 ## Panel
 $500 [Volair panel](https://volairsim.com/product/volair-sim-avionics-panel-g1000/), metal cut out for my panel, excellent 
