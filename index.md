@@ -138,7 +138,7 @@ A **printed enclosure houses**:
 
 ---
 
-## 🖥️ Software & Avionics
+## Software & Avionics
 
 ### Air Manager
 
@@ -164,7 +164,7 @@ A **printed enclosure houses**:
 
 ---
 
-## 🖥️ RealSimGear Integration
+## RealSimGear Integration
 
 ![GFC500 Back](images/gfc500-back.jpg)
 
@@ -177,7 +177,7 @@ A **printed enclosure houses**:
 
 ---
 
-## 💰 Components & Pricing
+## Components & Pricing
 
 [Full Pricing List Available Here](pricing.md)
 
@@ -190,16 +190,3 @@ A **printed enclosure houses**:
 
 ---
 
-## 📜 Conclusion
-
-This build has been a **huge learning experience**, from **hardware fabrication** to **Arduino programming**. I hope this documentation helps others in the **flight sim community**.
-
----
-
-## ✅ Next Steps
-
-- Upload **images** into an `/images/` folder.
-- Copy this `index.md` into your **GitHub repository**.
-- Add `_config.yml` to enable **Minima theme styling**.
-
----
