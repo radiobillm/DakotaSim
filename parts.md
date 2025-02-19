@@ -1,4 +1,4 @@
-## Components and Prices
+## Parts and Prices
 
 ### Software
 
