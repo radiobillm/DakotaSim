@@ -16,6 +16,113 @@ With FS2024 I may use MobiFlight or spad.next to better map and maintain.
 
 This table documents the pin assignments and controls for the switch-throttle micro setup.
 
+## Switch-Throttle - Micro
+| PIN   | USB | WIRE-COLOR | Cable   |
+|-------|-----|------------|---------|
+| D13   |     | Pitot Off  | green   |
+| 3V    | AREF|            |         |
+| A0    |     | Throttle   | green   |
+| A1    |     | Mixture    | yellow  |
+| A2    |     | Prop       | orange  |
+| A3    |     | Carb Heat On| blue    |
+| A4    |     | Carb Heat Off| purple  |
+| A5    | NC  |            |         |
+| 5V    |     | 5V         | red     |
+| GND   |     | GND        | brown   |
+| VIN   |     |            |         |
+| D14   |     | GA         | brown   |
+| D15   |     | Nav Off    | orange  |
+| D12   |     | Avionics On| white   |
+| D11   |     | Avionics Off| grey    |
+| D10   |     | Master On  | purple  |
+| D9    |     | Master Off | blue    |
+| D8    |     | Fuel On    | green   |
+| D7    |     | Fuel Off   | yellow  |
+| D6    |     | Landing On | orange  |
+| D5    |     | Beacon On  | brown   |
+| D4    |     | Beacon Off | white   |
+| D3    |     | Collision On| grey    |
+| D2    |     | Landing On | red     |
+| GND   |     | GND        | black   |
+| RESET |     |            |         |
+| D0    |     | Collision Off| purple  |
+| D1    |     | Pitot On   | blue    |
+| D17   |     |            |         |
+| D16   |     | Nav On     | yellow  |
+
+## Brake-Fuel Pro Micro
+| TX/RX/GND | Key |        | Cable  |
+|-----------|-----|--------|--------|
+| GND       |     |        | black  |
+|           | +   | Brake  |        |
+| GND       |     |        | grey   |
+| D2        | Off |        | purple |
+| D3        | A   |        | blue   |
+| A6/D4     | B   |        | green  |
+| D5        | Run |        | yellow |
+| A7/D6     | Start|        | orange |
+| D7        |     |        |        |
+| A8/D8     |     | Rudder Trim| orange |
+| A9/D9     |     | 7-12V  |        |
+| GND       |     | GND    | black  |
+| RST       |     | 5V     | orange |
+| A3/D21    |     | Fuel Off| brown  |
+| A2/D20    |     | Left Tip | red    |
+| A1/D19    |     | Left Main| orange |
+| A0/D18    |     | Right Main| yellow |
+| D15       |     | Right Tip| green  |
+| D14       | Off | Park   | yellow |
+| D16       | On  | Park   | red    |
+| A10/D10   |     |        |        |
+
+## Trim-Flaps Pro Micro
+| TX/RX/GND | Trim/Flaps |     | Cable  |
+|-----------|------------|-----|--------|
+| GND       |            |     | black  |
+| D2        | 0          | Flaps| white  |
+| D3        | 1          | Flaps| grey   |
+| A6/D4     | 3          | Flaps| purple |
+| D5        | 4          | Flaps| blue   |
+| A7/D6     |            |     |        |
+| D7        |            |     |        |
+| A8/D8     |            | Trim | black  |
+| A9/D9     |            | 7-12V|        |
+| GND       |            | RST  |        |
+| 5V        |            |     |        |
+| A3/D21    |            |     |        |
+| A2/D20    |            |     |        |
+| A1/D19    |            |     |        |
+| A0/D18    |            |     |        |
+| D15       |            |     |        |
+| D14       |            |     |        |
+| D16       |            |     |        |
+| A10/D10   |            |     |        |
+
+## Compass Pro Micro
+| TX/RX/GND |      |        | Cable    |
+|-----------|------|--------|----------|
+| GND       |      |        |          |
+| D2        |      |        |          |
+| D3        |      |        |          |
+| A6/D4     |      |        |          |
+| D5        |      |        |          |
+| A7/D6     |      |        |          |
+| D7        |      |        |          |
+| A8/D8     |      |        |          |
+| A9/D9     |      | 7-12V  |          |
+| GND       |      | GND    | Compass  |
+| RST       |      | 5V     |          |
+| 5V        |      |        |          |
+| A3/D21    | IN1  | Compass|          |
+| A2/D20    | IN2  | Compass|          |
+| A1/D19    | IN3  | Compass|          |
+| A0/D18    | IN4  | Compass|          |
+| D15       |      |        |          |
+| D14       |      |        |          |
+| D16       |      |        |          |
+| A10/D10   |      |        |          |
+
+## HID to Microsoft FS Control
 ### Switch-Throttle - Micro
 
 | Control             | Button | FS-Control             |
