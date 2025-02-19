@@ -9,7 +9,7 @@ I created my own instruments below.  The radio has been replaced with a much bet
 ## Dakota
 [Air Manager for Dakota](https://github.com/radiobillm/DakotaSim/archive/refs/tags/v1.0-airmanager-garmin.zip) zip file
 
-## Oil Guage
+## Oil Gauge
 ![Air Manager Oil](images/am-pa-oil.jpg)
 
 ## Tach
@@ -20,6 +20,7 @@ I created my own instruments below.  The radio has been replaced with a much bet
 
 ## Fuel Lever
 ![Air Manager Fuel](images/am-pa-fuel-lever.jpg)
+
 
 ## Garmin
 [Air Manager for Garmin](https://github.com/radiobillm/DakotaSim/archive/refs/tags/v1.0-airmanager-garmin.zip) zip file
