@@ -1,4 +1,4 @@
-## Avionics Panel
+# Avionics Panel
 
 ## Laser Cutting Plywood
 ![Panel](images/panel-laser.jpg)
@@ -20,7 +20,7 @@ Initially, I experimented with different mounting designs—including tabs—but
 
 ![Hold Down Brackets](images/hold-down-bracket.jpg)
 
-### Auto Wrap
+## Auto Wrap
 ![Auto Wrap Finish](images/auto-wrap.jpg)
 
 The panel front is covered with **black matt auto wrap** which worked surprisingly well. My main lesson was to apply over a sanded clear poly.  Even after wiping twice, bare plywood held small flakes and every spec showed through the wrap. I used a heat gun to stretch slightly and cut openings after applying.  If building a second model I’d try to wrap the plywood before the laser cut.
