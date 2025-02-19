@@ -37,7 +37,6 @@ A low-mounted monitor under the table displays the Air Manager Manifold and Tach
 The model has an unused gauge cutout layer. I may build stepper motor versions for our oil, fuel, manifold and tach that match our real plane.
 
 ### Table
-![Back of Panel](images/table-back.jpg)
 
 ![Avionics Table](images/table.jpg)
 
