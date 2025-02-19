@@ -15,7 +15,13 @@ The sim community is a gem.  After learning from so many projects and discussion
 ### Cockpit Structure
 - [Avionics Panel](Panel.md)
 - [Avionics Table](Table.md)
-- [Chasis 
+- [Chassis](Chassis.md)
+### Fabricated Controls
+- [Panel Controls](Panel-Controls.md)
+- [Center Stack Controls](Center-Controls.md)
+- 
+### Instruments
+
 - [Purchased Instruments & Controls](Purchased-Instruments-Controls)
 - [Displays & Computing Hardware](Displays-Computing-Hardware)
 - [Software & System Configuration](Software-System-Configuration)
