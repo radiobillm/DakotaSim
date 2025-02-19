@@ -1,4 +1,4 @@
-# Dakota Flight Simulator Project
+# Dakota Flight Simulator
 
 February 2025
 
