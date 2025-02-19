@@ -26,6 +26,8 @@ Initially, I experimented with different mounting designs—including tabs—but
 ![Hold Down Brackets](images/hold-down-bracket.jpg)
 
 #### Auto Wrap
+![Auto Wrap Finish](images/auto-wrap.jpg)
+
 The panel front is covered with **black matt auto wrap** which worked surprisingly well. My main lesson was to apply over a sanded clear poly.  Even after wiping twice, bare plywood held small flakes and every spec showed through the wrap. I used a heat gun to stretch slightly and cut openings after applying.  If building a second model I’d try to wrap the plywood before the laser cut.
 
 The prior black ACM panel looked great.  But after ruining a $40 ACM panel on the CNC, I decided to not wait and buy another. The plywood + wrap can be cut with just a laser.
@@ -48,6 +50,7 @@ For support I replaced the original chassis monitor stand.  A 3/4”x24” threa
 ![Power and Hubs](images/power-hubs.jpg)
 
 For aesthetics and easier troubleshooting I took time for the component layout above and under the table and designed and printed holders for power supplies, USB hubs, and HDMI adapters.
+
 ![Back of Panel](images/table-back.jpg)
 
 ![Power and Hub Mounts](images/power-hubs.jpg)
