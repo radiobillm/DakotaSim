@@ -1,15 +1,6 @@
 # Ardunio Hardware
 
-One goal was to reduce software stacks which is why the input-only controls are HID and configured in MSFS.  ChatGPT wrote those the software software, it’s a marvelous tool for handling details and learning.
-
-With FS2024 I may use MobiFlight or spad.next to better map and maintain.
-
-## Three Arduinos cover all input-only controls using the Joystick library.  The project includes code for each:
-* Arduino Pro Throttle, Switch, TOGA, Carb Heat
-* Arduino Micro Pro Trim and Flaps
-* Arduino Micro Pro Parking Brake, Key/Start, Fuel Selector, and Rudder Trim
-
-### Arduino Joystick
+See the software info
 
 # Switch-Throttle Micro Pin Mapping
 
