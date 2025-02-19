@@ -2,9 +2,11 @@
 
 ![Desktop Sim](/images/sim-1.jpg)
 
-My  first iteration was X-Plane based system on my office desk which had a Mac Studio and Samsung ultrawide monitor.  The only item still used from that version is my Air Manager license.
+I retired in early 2023 and decided to resume flying after a 30 year break.  The first step was setting up a desktop sim. 
 
-Below are the components .
+My first iteration was X-Plane based system on my office desk which had a Mac Studio and Samsung ultrawide monitor.  The only item still used from that version is my Air Manager license.
+
+Below are the components:
 
 $60 [X-Plane](https://www.x-plane.com/) 
 
