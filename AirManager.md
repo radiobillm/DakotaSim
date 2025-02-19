@@ -16,9 +16,10 @@ I created my own instruments below.  The radio has been replaced with a much bet
 - Simple Flaps Lever
 - Fuel Tank Select
 
-![Oil](images/pa-oil-guage.jpg)
+- ![Oil](images/am-gnc255.jpg)
 
 [Air Manager for Garmin](https://github.com/radiobillm/DakotaSim/archive/refs/tags/v1.0-airmanager-garmin.zip)
 
 - GNC255 Radio
+- ![Oil](images/am-gtx345.jpg)
 - GTX345 Transponder
