@@ -14,7 +14,8 @@ The sim community is a gem.  After learning from so many projects and discussion
 ## Project Details
 ### Cockpit Structure
 - [Avionics Panel](Panel.md)
-- [Custom-Built Controls](Custom-Built-Controls)
+- [Avionics Table](Table.md)
+- [Chasis 
 - [Purchased Instruments & Controls](Purchased-Instruments-Controls)
 - [Displays & Computing Hardware](Displays-Computing-Hardware)
 - [Software & System Configuration](Software-System-Configuration)
