@@ -32,7 +32,7 @@ The current build would cost about $10,000. The project includes a breakdown of 
 ## Other Purchased Hardware
 - [RSG and Tigerfly Instruments](Instruments.md)
 - [Flitesim Yoke, Thrustmaster Pedals](Yoke-pedals.md)
-- [Monitors and Sound](Displays.md)
+- [Monitors and Sound](Monitors-Sound.md)
 - [Computer](Computer.md)
 
 ## Software
