@@ -1,7 +1,7 @@
 # Fabricated Controls
 ## PA28 Throttle
 
-![name](images/throttle.jpg)![name]
+![Custom PA-28 Throttle](images/throttle.jpg)
 
 I started by buying a real replacement throttle assembly trim and label, then designed and 3D printed the body.  
 
@@ -13,7 +13,7 @@ Label strips are glued to the top of the trim cover under a printed trim plate.
 
 ## Switch Panel
 
-![name](images/switch-back.jpg)
+![Switch Panel Back](images/switch-back.jpg)
 
 The hard part for the switch panel was sourcing rocker switches that match a real PA28.  I ordered a few alternatives but never found half-width rockers that could be ganged together to match the real set, nor found suitable grey covers.  
 
@@ -23,7 +23,7 @@ An Arduino Micro in the switch panel handles the switches, throttle, Carb Heat l
 
 ## Carb Heat
 
-![name](images/carb-heat.jpg)
+![Carb Heat Lever](images/carb-heat.jpg)
 
 The Carb Heat lever is printed to sandwich the end of a metal toggle, the assembly also has a switch holder under the table.  A printed panel trim insert keeps the lever sliding vertically with a realistic feel.  MSFS offers Anti Ice On or Off, but no variable carb heat setting like a real PA28.
 
