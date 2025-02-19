@@ -14,7 +14,7 @@ I created my own instruments below.  The radio has been replaced with a much bet
 - Manifold Pressure Gauge
 - Tach Guage
 - Simple Flaps Lever
-- Fuel Tank Select (crude)-
+- Fuel Tank Select
 
 [Air Manager for Garmin](https://github.com/radiobillm/DakotaSim/archive/refs/tags/v1.0-airmanager-garmin.zip)
 
