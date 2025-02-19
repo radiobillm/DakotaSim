@@ -11,7 +11,7 @@ The sim community is a gem.  After learning from so many projects and discussion
 ![Dakota Sim](images/dakota-sim-photo.jpg)
 ![Back of Panel](images/table-back.jpeg)
 
-## Outline
+## Project Details
 - [Cockpit Structure](Cockpit-Structure)
 - [Custom-Built Controls](Custom-Built-Controls)
 - [Purchased Instruments & Controls](Purchased-Instruments-Controls)
