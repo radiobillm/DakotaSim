@@ -13,8 +13,8 @@ The project includes:
 [Project Wiki](https://github.com/radiobillm/DakotaSim/wiki)
 
 ## Downloads
-[Download DakotaSim SketchUp & Arduino Files](https://github.com/radiobillm/DakotaSim/releases/latest)
-(For older versions, see [All Releases](https://github.com/radiobillm/DakotaSim/releases))
+- [Sketchup](https://github.com/radiobillm/DakotaSim/releases/latest)
+- [Arduino](https://github.com/radiobillm/DakotaSim/releases))
 
 ## Resources
 - [Parts and Pricing](https://github.com/radiobillm/DakotaSim/blob/main/parts.md)
