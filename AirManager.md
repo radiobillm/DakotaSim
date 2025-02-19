@@ -8,17 +8,17 @@ The $25 Air Manager G5 was the best I found, more realistic than Asobo and witho
 ## Custom Instruments
 I created my own instruments below.  I still use my Manifold and Tach gauges.  The 255 radio has been replaced with a much better hardware version and I'm not now using the others.  
 
-### Garmin
+### Garmin Radios
 [Air Manager for Garmin](https://github.com/radiobillm/DakotaSim/archive/refs/tags/v1.0-airmanager-garmin.zip) zip file
 
-#### GNC-255 Radio
+#### GNC-255 Com-Nav Radio
 ![GNC255](images/am-gnc255.jpg)
   
 #### GTX-345 Transponder
 ![GTX345](images/am-gtx345.jpg)
 
 
-### Dakota
+### Dakota Gauges and Lever
 [Air Manager for Dakota](https://github.com/radiobillm/DakotaSim/archive/refs/tags/v1.0-airmanager-garmin.zip) zip file
 
 #### Oil Gauge
