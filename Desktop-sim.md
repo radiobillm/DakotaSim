@@ -14,7 +14,7 @@ $750 Honeycomb [yoke](https://flyhoneycomb.com/collections/bestseller/products/a
 
 $30 Rudder pressure rolls back the Aeron chair, added [locking chair casters](https://www.amazon.com/gp/product/B0BKLSQVJ4/)
 
-$300 [Air Manager](https://www.siminnovations.com/air-manager/) and [Knobster](https://www.siminnovations.com/shop/knobster/)s made realistic instrument use
+$300 [Air Manager](https://www.siminnovations.com/air-manager/) and [Knobsters](https://www.siminnovations.com/shop/knobster/) made realistic instrument use
 
 $120 Moved instruments to a [14” portable touch display](https://www.amazon.com/gp/product/B0C4TCHK1S/r)
 
