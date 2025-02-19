@@ -8,34 +8,20 @@ This page documents the components selected for a flight simulator PC build.
 
 ## PC Components
 
-| Component          | Product | Notes |
-|-------------------|---------|-------|
-| **CPU** | [AMD Ryzen 7 7800X3D](https://pcpartpicker.com/product/MJRFf7/amd-ryzen-7-7800x3d-45-ghz-8-core-processor-100-100000910wof) | High-performance CPU optimized for gaming |
-| **Motherboard** | [ASUS ROG STRIX B650E-F GAMING WIFI ATX AM5](https://pcpartpicker.com/product/jKXJ7P/asus-rog-strix-b650e-f-gaming-wifi-atx-am5-motherboard) | ATX motherboard with Wi-Fi 6E support |
-| **Memory** | [G.Skill Ripjaws S5 32 GB (2 x 16 GB) DDR5-6000 CL30](https://pcpartpicker.com/product/dqXJ7P/gskill-ripjaws-s5-32-gb-2-x-16-gb-ddr5-6000-cl30-memory-f5-6000j3038f16gx2-rs5k) | 32GB of fast DDR5 RAM |
-| **Storage** | [Western Digital Black SN850X 2TB NVMe M.2 SSD](https://pcpartpicker.com/product/gJmFf7/western-digital-black-sn850x-2-tb-m2-2280-nvme-solid-state-drive-wds200t2x0e) | Fast storage for OS and flight sim |
-| **GPU** | [MSI GeForce RTX 4070 Ti SUPER 16GB](https://pcpartpicker.com/product/vVy2FT/msi-geforce-rtx-4070-ti-super-16-gb-vennus-3x-oc-video-card-vennus-3x-oc) | Powerful GPU for high-performance flight simulation |
-| **Case** | [Fractal Design North ATX Mid Tower](https://pcpartpicker.com/product/XqgFf7/fractal-design-north-atx-mid-tower-case-fd-c-nor1c-03) | Stylish airflow-focused case |
-| **Power Supply** | [Corsair RM750e 750W 80+ Gold Fully Modular](https://pcpartpicker.com/product/xFmmP6/corsair-rm750e-750-w-80-gold-certified-fully-modular-atx-power-supply-cp-9020262-na) | Reliable fully modular PSU |
-| **CPU Cooler** | [Thermalright Phantom Spirit 120 EVO](https://pcpartpicker.com/product/ff66Mp/thermalright-phantom-spirit-120-evo-6682-cfm-cpu-cooler-phantom-spirit-120-evo) | Efficient air cooling solution |
+| Component          | Product | Price | Where |
+|-------------------|---------|-------|-------|
+| **CPU** | [Intel Core i9-14900KF 3.2 GHz 24-Core Processor](https://pcpartpicker.com/product/MJRFf7/intel-core-i9-14900kf-32-ghz-24-core-processor) | $416.94 | [Amazon](https://www.amazon.com) |
+| **CPU Cooler** | [Deepcool LT520 85.85 CFM Liquid CPU Cooler](https://pcpartpicker.com/product/dqXJ7P/deepcool-lt520-8585-cfm-liquid-cpu-cooler) | No Prices Available | |
+| **Thermal Compound** | [Arctic Silver 5 High-Density Polysynthetic Silver 3.5 g Thermal Paste](https://pcpartpicker.com/product/gJmFf7/arctic-silver-5-high-density-polysynthetic-silver-35-g-thermal-paste) | $7.95 | [Amazon](https://www.amazon.com) |
+| **Motherboard** | [Asus ROG STRIX B760-I GAMING WIFI Mini ITX LGA1700 Motherboard](https://pcpartpicker.com/product/vVy2FT/asus-rog-strix-b760-i-gaming-wifi-mini-itx-lga1700-motherboard) | $189.99 | [Newegg](https://www.newegg.com) |
+| **Memory** | [Corsair Vengeance 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory](https://pcpartpicker.com/product/XqgFf7/corsair-vengeance-32-gb-2-x-16-gb-ddr5-6400-cl32-memory) | $102.99 | [Newegg](https://www.newegg.com) |
+| **Storage** | [Crucial P5 Plus W/Heatsink 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive](https://pcpartpicker.com/product/xFmmP6/crucial-p5-plus-wheatsink-2-tb-m2-2280-pcie-40-x4-nvme-solid-state-drive) | $169.00 | [Amazon](https://www.amazon.com) |
+| **GPU** | [Asus ProArt GeForce RTX 4080 16 GB Video Card](https://pcpartpicker.com/product/ff66Mp/asus-proart-geforce-rtx-4080-16-gb-video-card) | No Prices Available | |
+| **Case** | [Lian Li A4-H20 X4 Mini ITX Desktop Case](https://pcpartpicker.com/product/ff66Mp/lian-li-a4-h20-x4-mini-itx-desktop-case) | $154.99 | [Amazon](https://www.amazon.com) |
+| **Power Supply** | [Corsair SF750 (2018) 750 W 80+ Platinum Certified Fully Modular SFX Power Supply](https://pcpartpicker.com/product/ff66Mp/corsair-sf750-2018-750-w-80-platinum-certified-fully-modular-sfx-power-supply) | No Prices Available | |
 
-## Additional Peripherals
-
-- **Flight Controls**: _(To be added based on preference)_
-- **Monitor**: _(Recommended 1440p or 4K display with high refresh rate)_
-- **VR Headset**: _(Optional for immersive experience)_
-- **Audio Setup**: _(Headset or speaker system)_
-
-## Assembly Notes
-
-- Ensure BIOS is updated for best compatibility with Ryzen 7 7800X3D.
-- Use XMP/EXPO profiles to optimize memory speeds.
-- Proper cable management helps with airflow and aesthetics.
-- Consider additional case fans if necessary.
+### Base Total: **$1044.86**
 
 ## Links
 
 - [Full PCPartPicker List](https://pcpartpicker.com/list/qsLdJy)
-
----
-_Last updated: February 2025_
