@@ -5,15 +5,13 @@
 
 I started by buying a real replacement throttle assembly trim and label, then designed and 3D printed the body.  
 
-![name](images/throttle-inside.jpg)
+![name](images/throttle-inside.jpg) ![name](images/throttle-proto.jpg)
 
 To fit the closely spaced throttle, prop, and mixture levers, I used bellcranks to offset the potentiometers.
 
 The M4 screws into 3mm PLA holes were not strong enough on their own and required glue for reinforcement. Threaded inserts would be a better solution, as the tight space makes soldering and adjustments difficult.
 
 Label strips are glued to the top of the trim cover under a printed trim plate.
-
-![name](images/throttle-proto.jpg)
 
 ## Switch Panel
 
