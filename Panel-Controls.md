@@ -33,6 +33,18 @@ I ordered the SimWales Key Switch from caspajack on eBay. The spring mechanism i
 
 One challenge was the table height meant moving the switch a little lower than in real life, even after cutting off the top of the assembly. The switch was disabled and the faceplate removed.  When reassembling I first aligned the key position and then the pin so it hits the spring on start. 
 
+## Headset
+
+The headset speaker and microphone jacks are connected via a USB Aviation adapter.
+
+Installation Details:
+
+* The adapter’s casing was removed, allowing me to use the jack nuts directly on the panel.
+* Since the panel is ¼” thick, a relief pocket is needed on the backside (not currently included in the model).
+* The USB board is glued to the back of the panel, as it lacks a dedicated case.
+
+A prior ACM panel grounded the mic so it became unusable with PilotEdge, which was solved by printing bushings to insulate the jacks.  This bushing is unnecessary with plywood.
+
 ## Bezels
 
 Simple bezels are printed for the yoke, manifold, and tach gauge, carb heat and togo switch openings.  I may build a bezel for the JPI Engine monitor.
