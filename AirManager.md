@@ -15,6 +15,7 @@ I created my own instruments below.  The radio has been replaced with a much bet
 - Tach Guage
 - Simple Flaps Lever
 - Fuel Tank Select
+![Oil](images/cpa-oil-guage.jpg)
 
 [Air Manager for Garmin](https://github.com/radiobillm/DakotaSim/archive/refs/tags/v1.0-airmanager-garmin.zip)
 
