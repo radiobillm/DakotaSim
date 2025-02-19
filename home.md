@@ -40,5 +40,5 @@ The current build would cost about $10,000. The project includes a breakdown of 
 - [Air Manger Instruments](AirManager.md)
 - [SketchUp & Fabrication Files](SketchUp-Fabrication-Files)
 
-- ## Parts List
+## Parts List
 - [Parts List & Pricing](Parts-Price.md)
