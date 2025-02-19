@@ -1,7 +1,7 @@
 # Dakota Flight Simulator Project
 
 Welcome to the documentation for my flight simulator project. This Wiki contains details about the construction, components, and software used in the simulator.
-[dakota-sim-photo.jpg]
+[Dakota Sim][images/dakota-sim-photo.jpg]
 
 The sim was built to practice IFR flying using new avionics that match our real plane. It has also been a great opportunity to learn Arduino and explore my Onefinity CNC/Laser.
 
@@ -10,7 +10,7 @@ ChatGPT tells me that Piper has sold about 30,000 PA-28 series aircraft, compare
 The sim community is a gem.  After learning from so many projects and discussions, I felt guilty for never sharing my work.  This document includes the key components, build details, and lessons learned that I believe will be most helpful to others.
 
 
-## Navigation
+## Outline
 - [Cockpit Structure](Cockpit-Structure)
 - [Custom-Built Controls](Custom-Built-Controls)
 - [Purchased Instruments & Controls](Purchased-Instruments-Controls)
