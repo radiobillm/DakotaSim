@@ -9,7 +9,8 @@ The project includes:
 - SketchUp models
 - Details of the produicts and prices from a few generations
 
-[Full Documentation](https://github.com/radiobillm/DakotaSim/wiki)
+## Documentation
+[Project Wiki Details](https://github.com/radiobillm/DakotaSim/wiki)
 
 ## Downloads
 [Download DakotaSim SketchUp & Arduino Files](https://github.com/radiobillm/DakotaSim/releases/latest)
