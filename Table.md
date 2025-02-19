@@ -1,8 +1,7 @@
 # Avionics Table
 
-![Avionics Table](images/table.jpg)
-
 ## Support Table
+![Avionics Table](images/table.jpg)
 
 The support Table is ½” plywood with edge and side pieces to replace the chassis metal. 
 
