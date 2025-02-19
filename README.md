@@ -1,16 +1,16 @@
 # DakotaSim – Piper Dakota Flight Simulator
 
-DakotaSim is a **custom PA-28-235 flight simulator** designed to match our plane's real-world avionics. 
+DakotaSim is a PA-28-235 flight simulator to match our real plane's G3X-based panel. 
 
 The project includes:
-- A hardware simulator build including custom-fabricated hardware
-- Arduino-based basic HID throttle, switch, and trim controls
-- Custom Air Manager instruments
+- A hardware  build including custom-fabricated hardware
 - SketchUp models
-- Details of the produicts and prices from a few generations
+- Arduino-based HID throttle, switch, and trim controls
+- Custom Air Manager instruments
+- Parts and prices detail
 
 ## Documentation
-[Project Wiki Details](https://github.com/radiobillm/DakotaSim/wiki)
+[Project Wiki](https://github.com/radiobillm/DakotaSim/wiki)
 
 ## Downloads
 [Download DakotaSim SketchUp & Arduino Files](https://github.com/radiobillm/DakotaSim/releases/latest)
