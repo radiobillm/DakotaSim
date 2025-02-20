@@ -18,7 +18,7 @@ I created my own instruments below.  I still use my Manifold and Tach gauges.  T
 ![GTX345](images/am-gtx345.jpg)
 
 ### Dakota Gauges and Lever
-[Air Manager for Dakota](https://github.com/radiobillm/DakotaSim/archive/refs/tags/v1.0-airmanager-garmin.zip) zip file
+[Air Manager for Dakota]([https://github.com/radiobillm/DakotaSim/releases/download/v1.0-airmanager-dakota/AirManager-Dakota.zip) zip file
 
 #### Fuel Gauge
 ![Air Manager Fuel Gauge](images/am-pa-fuel.png)
