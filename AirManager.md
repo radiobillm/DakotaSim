@@ -17,12 +17,10 @@ I created my own instruments below.  I still use my Manifold and Tach gauges.  T
 #### GTX-345 Transponder
 ![GTX345](images/am-gtx345.jpg)
 
-
-
 ### Dakota Gauges and Lever
 [Air Manager for Dakota](https://github.com/radiobillm/DakotaSim/archive/refs/tags/v1.0-airmanager-garmin.zip) zip file
 
-#### Fuel Gauge Cluster
+#### Fuel Gauge
 ![Air Manager Fuel Gauge](images/am-pa-fuel.png)
 
 #### Oil Gauge
