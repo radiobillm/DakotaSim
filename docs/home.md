@@ -27,6 +27,7 @@ The current build would cost about $10,000. The project includes a breakdown of 
 - [Throttle, Switch, & Panel Controls](Panel-Controls.md)
 - [Center Stack , Brake, & Fuel](Center-Controls.md)
 - [Trim & Flaps](Trim-flaps.md)
+- [Compass](Compass.md)
 
 ## Arduinio
 - [Arduino Hardware](Arduino.md)
